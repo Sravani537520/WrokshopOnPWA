@@ -2,7 +2,7 @@
   "name": "pwa-project",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "serve": "http-server -p 1336 build -c-1"
   },
